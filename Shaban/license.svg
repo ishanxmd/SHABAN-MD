@@ -88,7 +88,7 @@
     <!-- Row 2: Version -->
     <g transform="translate(0,33)"> <!-- Updated Y position from 38 to 33 -->
       <text x="0" y="0" dy="0.9em" font-size="15" font-weight="800" fill="url(#holo)" filter="url(#glow)">VERSION</text>
-      <text x="100" y="0" dy="0.9em" font-size="15" font-weight="900" fill="#FFFFFF">V.5 Neon Edition</text>
+      <text x="100" y="0" dy="0.9em" font-size="15" font-weight="900" fill="#FFFFFF">V3.0 ULTRA</text>
     </g>
 
     <!-- Row 3: License -->
