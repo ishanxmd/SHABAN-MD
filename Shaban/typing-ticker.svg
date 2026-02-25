@@ -93,7 +93,7 @@
   <!-- Line 1 (0s start; repeats every 30s) -->
   <g clip-path="url(#clip1)">
     <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
-      ⚡ SHABAN MD BETTER OPTION
+      ⚡ ISHAN-X MD BETTER OPTION
     </text>
   </g>
   <animate xlink:href="#r1" attributeName="width" values="0;520;0" dur="6s" begin="0s;30s;60s" repeatCount="1" fill="freeze"/>
@@ -117,7 +117,7 @@
   <!-- Line 3 (starts at 12s) -->
   <g clip-path="url(#clip3)">
     <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
-      💻 DEVELOPER BY MR SHABAN
+      💻 DEVELOPER BY ISHAN-X
     </text>
   </g>
   <animate xlink:href="#r3" attributeName="width" values="0;520;0" dur="6s" begin="12s;42s;72s" repeatCount="1" fill="freeze"/>
@@ -129,7 +129,7 @@
   <!-- Line 4 (starts at 18s) -->
   <g clip-path="url(#clip4)">
     <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
-      🚀 SHABAN-MD SOLUTIONS
+      🚀 ISHAN-X MD SOLUTIONS
     </text>
   </g>
   <animate xlink:href="#r4" attributeName="width" values="0;520;0" dur="6s" begin="18s;48s;78s" repeatCount="1" fill="freeze"/>
